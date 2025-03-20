@@ -16,3 +16,5 @@ Prima di partire a scrivere codice poniamoci qualche domanda: Che ci sia un arra
 
 
 <!-- Dadi -->
+<!-- Stabilire la variabile e la formula con la quale generare un numero randon da 1 a 6 -->
+<!-- permetto di far generare all'utente e al computer il numero -->
