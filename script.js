@@ -17,6 +17,19 @@
 
 //Dadi
 
-let randomNumber = Math.floor(Math.random() * 7)
-let user = prompt("Inserisci il numero (utente)")
-let computer = prompt ("Inserisci il numero (computer")
+let userNum = Math.floor(Math.random() * 7) 
+let computerNum = Math.floor(Math.random() * 7)
+let checkNumber = false;
+console.log(userNum,computerNum);
+for(i = 0; i<userNum; i++){
+    if(userNum > computerNum){
+        checkNumber= true;
+    }
+}
+
+if(checkNumber){
+    console.log("L'utente ha vinto");
+}
+else{
+    console.log("Il computer ha vinto")
+}

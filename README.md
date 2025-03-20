@@ -17,4 +17,8 @@ Prima di partire a scrivere codice poniamoci qualche domanda: Che ci sia un arra
 
 <!-- Dadi -->
 <!-- Stabilire la variabile e la formula con la quale generare un numero randon da 1 a 6 -->
-<!-- permetto di far generare all'utente e al computer il numero -->
+<!-- attribuisco a userNum e computerNum la formula con il numero randomico -->
+<!-- dichiaro la variabile di controllo -->
+<!-- ciclo per vedere quale dei due numeri è maggiore rispetto all'altro -->
+<!-- se è vera la prima condizione, il numero inserito dall'utente risulterà vincitore -->
+<!-- se si verificano le altre condizioni, il computer risulterà vincitore -->
