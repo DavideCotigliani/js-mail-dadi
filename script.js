@@ -31,6 +31,5 @@ for(i = 0; i<1; i++){
     }
     else{
         console.log("C'è un pareggio");
-        
     }
 }
