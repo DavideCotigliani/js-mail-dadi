@@ -12,3 +12,6 @@ Prima di partire a scrivere codice poniamoci qualche domanda: Che ci sia un arra
 <!-- Dentro il ciclo "for" controllo se è presente la mail (se corrisponde a quella che sto ciclando) -->
 <!-- Se è vera la condizione dettata, cambio il valore della variabile di controllo (mettendola su true) -->
 <!-- Controllo il valore della variabile di controllo per stampare il messaggio corretto -->
+
+
+<!-- Dadi -->
