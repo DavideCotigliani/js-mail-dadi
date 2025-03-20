@@ -5,4 +5,11 @@ for(i=0;i<lista.length;i++){
    if (lista[i] === mail)
     checkmail = true;   
 }
-console.log(checkmail);
+
+// per verificare se il messaggio inserito è corretto o meno e mostrare due tipi di messaggio diversi
+if (checkmail){
+    console.log("email presente")
+}
+else {
+    console.log("email non presente");
+}
