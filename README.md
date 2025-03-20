@@ -5,8 +5,9 @@ Gioco dei dadi
 Generare un numero random da 1 a 6, sia per il giocatore sia per il computer. Stabilire il vincitore, in base a chi fa il punteggio più alto.
 Prima di partire a scrivere codice poniamoci qualche domanda: Che ci sia un array da qualche parte? Se dobbiamo confrontare qualcosa che "cosa" ci serve?
 
-<!-- Mail : dichiaro la mia lista di invitati -->
+<!-- Mail  -->
 
+<!-- dichiaro la mia lista di invitati -->
 <!-- Permetto all'utente di inserire la mail -->
 <!-- dichiaro la variabile di controllo (impostandola su false) -->
 <!-- ciclo l'array delle mail -->
@@ -16,9 +17,10 @@ Prima di partire a scrivere codice poniamoci qualche domanda: Che ci sia un arra
 
 
 <!-- Dadi -->
+
 <!-- Stabilire la variabile e la formula con la quale generare un numero randon da 1 a 6 -->
 <!-- attribuisco a userNum e computerNum la formula con il numero randomico -->
-<!-- dichiaro la variabile di controllo -->
-<!-- ciclo per vedere quale dei due numeri è maggiore rispetto all'altro -->
+<!-- ciclo stabilendo le condizioni if, else if e else
 <!-- se è vera la prima condizione, il numero inserito dall'utente risulterà vincitore -->
-<!-- se si verificano le altre condizioni, il computer risulterà vincitore -->
+<!-- se si verifica la seconda, il computer risulterà vincitore -->
+<!-- se nessuna delle precedenti si verifica, allora sarà un pareggio -->
